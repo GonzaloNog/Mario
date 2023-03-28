@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noggo\\Documents\\GitHub\\Mario\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\noggo\\Documents\\GitHub\\Mario\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\noggo\\Documents\\GitHub\\Mario\\ConsoleApp1\\ConsoleApp1\\Clase1.csproj",
+      "projectName": "Clase1",
+      "projectPath": "C:\\Users\\noggo\\Documents\\GitHub\\Mario\\ConsoleApp1\\ConsoleApp1\\Clase1.csproj",
       "packagesPath": "C:\\Users\\noggo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\noggo\\Documents\\GitHub\\Mario\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
